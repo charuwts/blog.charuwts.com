@@ -2,6 +2,7 @@
 title: Brandon White's Blog
 meta_description: Bible Study, Memory, Programming and other miscellaneous pursuits by Brandon White 
 template: default
+header: default
 ---
 
 # Welcome to Brandon's Blog
